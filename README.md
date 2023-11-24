@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadUlHasnain
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Crytocurrency trading automation
+- 👀 I’m interested in Artificial Intelligencem Machine Learning
+- 🌱 I’m currently working on Crytocurrency trading automation wih Django
 - 💞️ I’m looking to collaborate on AI
 - 📫 You can reach me at "muhammadulhasnain@gmail.com"
 
